@@ -1,0 +1,17 @@
+{
+  "name": "graphql-learning",
+  "version": "1.0.0",
+  "description": "Learning material for GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Vazquez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "graphql": "^16.11.0",
+    "graphql-http": "^1.22.4",
+    "ruru": "^2.0.0-beta.22"
+  }
+}
